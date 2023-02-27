@@ -1,0 +1,10 @@
+name: my-json-server
+env:
+  DATABASE_URL: sqlite://memory
+build:
+  env:
+    NODE_ENV: production
+  commands:
+    - npm install
+start:
+  web: json-server --watch db.json --port $PORT
