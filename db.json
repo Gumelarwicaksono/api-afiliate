@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "urlImage": "Item 1",
+      "title": "Description for item 1",
+      "stars": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "id": 2,
+      "urlImage": "Item 2",
+      "title": "Description for item 2",
+      "stars": "⭐⭐⭐⭐⭐"
+    }
+  ]
+}
