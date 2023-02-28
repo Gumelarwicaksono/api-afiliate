@@ -2,8 +2,9 @@
   "users": [
     {
       "id": 1,
-      "username": "admin",
-      "password": "admin"
+      "username": "ralia",
+      "password": "admin",
+      "roule": "admin"
     }
   ],
   "items": [
@@ -11,13 +12,17 @@
       "id": 1,
       "urlImage": "Item 1",
       "title": "Description for item 1",
-      "stars": "⭐⭐⭐⭐⭐"
+      "stars": "⭐⭐⭐⭐⭐",
+      "urlShoope": "https://shoope.com",
+      "urlTokopedia": "https://tokopedia.com"
     },
     {
       "id": 2,
       "urlImage": "Item 2",
       "title": "Description for item 2",
-      "stars": "⭐⭐⭐⭐⭐"
+      "stars": "⭐⭐⭐⭐⭐",
+      "urlShoope": "https://shoope.com",
+      "urlTokopedia": "https://tokopedia.com"
     }
   ]
 }
